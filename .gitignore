@@ -1,0 +1,23 @@
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Données (trop lourdes pour GitHub)
+data/
+datasets/
+dataset_yolo_cls/
+*.zip
+
+# Modèles entraînés
+*.pt
+*.pth
+*.h5
+*.keras
+*.weights.h5
+runs/
+
+# Divers
+.DS_Store
+.env
+*.mp4

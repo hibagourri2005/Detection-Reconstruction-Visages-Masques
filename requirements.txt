@@ -1,0 +1,12 @@
+ultralytics
+tensorflow
+torch
+opencv-python
+numpy
+matplotlib
+seaborn
+scikit-learn
+pillow
+tqdm
+visualkeras
+jupyter
